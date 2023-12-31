@@ -1,0 +1,7 @@
+name: second-car
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - requests
+  - beautifulsoup4
