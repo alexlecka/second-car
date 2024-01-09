@@ -7,6 +7,5 @@ I have managed to write a script to collect data about all Opel cars on the mart
 Issues: There seems to be an issue some hyper-references - the elements lack a connection to their link so it's not possible to trace back the ad. I don't think this is very solvable. Some cars are missing mileage information - not something I can do anything about.<br>
 
 Next to do's:<br>
-- [x] Write a blog
 - [] Add car model information<br>
 - [] Find some car classification based on the parameters I have available. (car size, ideally car class, value new could be a good one, etc.)
